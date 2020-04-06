@@ -34,6 +34,10 @@
       "minLength": "3",
       "hint": "Hint: Make it strong!"
     },
+    "confirmPassword": {
+      "type": "confirmPassword",
+      "title": "Confirm password"
+    },
     "termsOfUse": {
       "type": "checkbox",
       "value": true,
